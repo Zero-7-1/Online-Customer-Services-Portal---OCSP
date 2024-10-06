@@ -15,7 +15,7 @@
   <!-- Custom CSS link --> 
   <link rel="stylesheet" href="css/custom.css">
   
-  <title> Online Customer Service Portal - OCSP </title>
+  <title> Online Customer Services Portal - OCSP </title>
 
 </head>
 
@@ -24,7 +24,7 @@
  <!-- Start of  Navigation -->
   <nav class="navbar navbar-expand-sm navbar-dark bg-primary pl-5 fixed-top">
    <a href="index.php" class="navbar-brand"> OCSP </a>
-   <span class="navbar-text"> Online Customer Service Portal </span>
+   <span class="navbar-text"> Online Customer Services Portal </span>
    
    <!-- Nav button for mobile screen -->
    <button type="button" class="navbar-toggler" data-toggle="collapse" 
